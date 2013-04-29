@@ -1,0 +1,8 @@
+cygwin warning:
+  MS-DOS style path detected: ../source/include\resource_img.h
+  Preferred POSIX equivalent is: ../source/include/resource_img.h
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+../source/src/resource_img.cpp: In function ‘void Char2Hex(unsigned char, char*)’:
+../source/src/resource_img.cpp:35: warning: comparison is always true due to limited range of data type

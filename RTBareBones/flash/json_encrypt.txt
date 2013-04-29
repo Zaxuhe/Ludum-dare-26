@@ -1,0 +1,674 @@
+[
+	{
+		"id": "llaveleft_001",
+		"sourceRect": {"x": 0, "y": 0, "width": 53, "height": 218},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 53, "height": 218},
+		"originalSize": {"width": 53, "height": 218}
+	},
+	{
+		"id": "llaveleft_002",
+		"sourceRect": {"x": 53, "y": 0, "width": 53, "height": 218},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 53, "height": 218},
+		"originalSize": {"width": 53, "height": 218}
+	},
+	{
+		"id": "llaveup_001",
+		"sourceRect": {"x": 106, "y": 0, "width": 218, "height": 53},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 218, "height": 53},
+		"originalSize": {"width": 218, "height": 53}
+	},
+	{
+		"id": "llaveup_002",
+		"sourceRect": {"x": 324, "y": 0, "width": 218, "height": 53},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 218, "height": 53},
+		"originalSize": {"width": 218, "height": 53}
+	},
+	{
+		"id": "invensifin_001",
+		"sourceRect": {"x": 542, "y": 0, "width": 104, "height": 95},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 104, "height": 95},
+		"originalSize": {"width": 104, "height": 95}
+	},
+	{
+		"id": "invensi_001",
+		"sourceRect": {"x": 646, "y": 0, "width": 104, "height": 95},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 104, "height": 95},
+		"originalSize": {"width": 104, "height": 95}
+	},
+	{
+		"id": "invensi_002",
+		"sourceRect": {"x": 750, "y": 0, "width": 104, "height": 95},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 104, "height": 95},
+		"originalSize": {"width": 104, "height": 95}
+	},
+	{
+		"id": "invensi_003",
+		"sourceRect": {"x": 854, "y": 0, "width": 104, "height": 95},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 104, "height": 95},
+		"originalSize": {"width": 104, "height": 95}
+	},
+	{
+		"id": "invensi_004",
+		"sourceRect": {"x": 106, "y": 53, "width": 104, "height": 95},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 104, "height": 95},
+		"originalSize": {"width": 104, "height": 95}
+	},
+	{
+		"id": "escudo_001",
+		"sourceRect": {"x": 210, "y": 53, "width": 102, "height": 86},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 102, "height": 86},
+		"originalSize": {"width": 102, "height": 86}
+	},
+	{
+		"id": "escudo_002",
+		"sourceRect": {"x": 312, "y": 53, "width": 102, "height": 86},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 102, "height": 86},
+		"originalSize": {"width": 102, "height": 86}
+	},
+	{
+		"id": "escudo_003",
+		"sourceRect": {"x": 414, "y": 53, "width": 102, "height": 86},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 102, "height": 86},
+		"originalSize": {"width": 102, "height": 86}
+	},
+	{
+		"id": "escudo_004",
+		"sourceRect": {"x": 516, "y": 95, "width": 102, "height": 86},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 102, "height": 86},
+		"originalSize": {"width": 102, "height": 86}
+	},
+	{
+		"id": "escudo_final_001",
+		"sourceRect": {"x": 618, "y": 95, "width": 102, "height": 86},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 102, "height": 86},
+		"originalSize": {"width": 102, "height": 86}
+	},
+	{
+		"id": "nube_001",
+		"sourceRect": {"x": 720, "y": 95, "width": 104, "height": 63},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 104, "height": 63},
+		"originalSize": {"width": 104, "height": 63}
+	},
+	{
+		"id": "nube_002",
+		"sourceRect": {"x": 824, "y": 95, "width": 104, "height": 63},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 104, "height": 63},
+		"originalSize": {"width": 104, "height": 63}
+	},
+	{
+		"id": "nube_003",
+		"sourceRect": {"x": 210, "y": 139, "width": 104, "height": 63},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 104, "height": 63},
+		"originalSize": {"width": 104, "height": 63}
+	},
+	{
+		"id": "nube_004",
+		"sourceRect": {"x": 314, "y": 139, "width": 104, "height": 63},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 104, "height": 63},
+		"originalSize": {"width": 104, "height": 63}
+	},
+	{
+		"id": "fuegor_001",
+		"sourceRect": {"x": 928, "y": 95, "width": 80, "height": 74},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 80, "height": 74},
+		"originalSize": {"width": 80, "height": 74}
+	},
+	{
+		"id": "fuegor_002",
+		"sourceRect": {"x": 418, "y": 139, "width": 80, "height": 74},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 80, "height": 74},
+		"originalSize": {"width": 80, "height": 74}
+	},
+	{
+		"id": "fuegor_003",
+		"sourceRect": {"x": 106, "y": 148, "width": 80, "height": 74},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 80, "height": 74},
+		"originalSize": {"width": 80, "height": 74}
+	},
+	{
+		"id": "fuegor_004",
+		"sourceRect": {"x": 720, "y": 158, "width": 80, "height": 74},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 80, "height": 74},
+		"originalSize": {"width": 80, "height": 74}
+	},
+	{
+		"id": "fuegor_005",
+		"sourceRect": {"x": 800, "y": 158, "width": 80, "height": 74},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 80, "height": 74},
+		"originalSize": {"width": 80, "height": 74}
+	},
+	{
+		"id": "fuego_001",
+		"sourceRect": {"x": 880, "y": 169, "width": 74, "height": 80},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 74, "height": 80},
+		"originalSize": {"width": 74, "height": 80}
+	},
+	{
+		"id": "fuego_002",
+		"sourceRect": {"x": 498, "y": 181, "width": 74, "height": 80},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 74, "height": 80},
+		"originalSize": {"width": 74, "height": 80}
+	},
+	{
+		"id": "fuego_003",
+		"sourceRect": {"x": 572, "y": 181, "width": 74, "height": 80},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 74, "height": 80},
+		"originalSize": {"width": 74, "height": 80}
+	},
+	{
+		"id": "fuego_004",
+		"sourceRect": {"x": 646, "y": 181, "width": 74, "height": 80},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 74, "height": 80},
+		"originalSize": {"width": 74, "height": 80}
+	},
+	{
+		"id": "fuego_005",
+		"sourceRect": {"x": 186, "y": 202, "width": 74, "height": 80},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 74, "height": 80},
+		"originalSize": {"width": 74, "height": 80}
+	},
+	{
+		"id": "explode_001",
+		"sourceRect": {"x": 958, "y": 0, "width": 60, "height": 60},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 60, "height": 60},
+		"originalSize": {"width": 60, "height": 60}
+	},
+	{
+		"id": "explode_002",
+		"sourceRect": {"x": 954, "y": 169, "width": 60, "height": 60},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 60, "height": 60},
+		"originalSize": {"width": 60, "height": 60}
+	},
+	{
+		"id": "explode_003",
+		"sourceRect": {"x": 260, "y": 202, "width": 60, "height": 60},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 60, "height": 60},
+		"originalSize": {"width": 60, "height": 60}
+	},
+	{
+		"id": "explode_004",
+		"sourceRect": {"x": 320, "y": 202, "width": 60, "height": 60},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 60, "height": 60},
+		"originalSize": {"width": 60, "height": 60}
+	},
+	{
+		"id": "explode_005",
+		"sourceRect": {"x": 380, "y": 213, "width": 60, "height": 60},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 60, "height": 60},
+		"originalSize": {"width": 60, "height": 60}
+	},
+	{
+		"id": "truenor_001",
+		"sourceRect": {"x": 440, "y": 213, "width": 44, "height": 74},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 44, "height": 74},
+		"originalSize": {"width": 44, "height": 74}
+	},
+	{
+		"id": "truenor_002",
+		"sourceRect": {"x": 0, "y": 218, "width": 44, "height": 74},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 44, "height": 74},
+		"originalSize": {"width": 44, "height": 74}
+	},
+	{
+		"id": "truenor_003",
+		"sourceRect": {"x": 44, "y": 218, "width": 44, "height": 74},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 44, "height": 74},
+		"originalSize": {"width": 44, "height": 74}
+	},
+	{
+		"id": "truenor_004",
+		"sourceRect": {"x": 88, "y": 222, "width": 44, "height": 74},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 44, "height": 74},
+		"originalSize": {"width": 44, "height": 74}
+	},
+	{
+		"id": "truenor_005",
+		"sourceRect": {"x": 132, "y": 222, "width": 44, "height": 74},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 44, "height": 74},
+		"originalSize": {"width": 44, "height": 74}
+	},
+	{
+		"id": "trueno_001",
+		"sourceRect": {"x": 720, "y": 232, "width": 74, "height": 44},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 74, "height": 44},
+		"originalSize": {"width": 74, "height": 44}
+	},
+	{
+		"id": "trueno_002",
+		"sourceRect": {"x": 794, "y": 232, "width": 74, "height": 44},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 74, "height": 44},
+		"originalSize": {"width": 74, "height": 44}
+	},
+	{
+		"id": "trueno_003",
+		"sourceRect": {"x": 868, "y": 249, "width": 74, "height": 44},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 74, "height": 44},
+		"originalSize": {"width": 74, "height": 44}
+	},
+	{
+		"id": "trueno_004",
+		"sourceRect": {"x": 942, "y": 249, "width": 74, "height": 44},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 74, "height": 44},
+		"originalSize": {"width": 74, "height": 44}
+	},
+	{
+		"id": "trueno_005",
+		"sourceRect": {"x": 484, "y": 261, "width": 74, "height": 44},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 74, "height": 44},
+		"originalSize": {"width": 74, "height": 44}
+	},
+	{
+		"id": "aguar_001",
+		"sourceRect": {"x": 558, "y": 261, "width": 43, "height": 75},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 43, "height": 75},
+		"originalSize": {"width": 43, "height": 75}
+	},
+	{
+		"id": "aguar_002",
+		"sourceRect": {"x": 601, "y": 261, "width": 43, "height": 75},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 43, "height": 75},
+		"originalSize": {"width": 43, "height": 75}
+	},
+	{
+		"id": "aguar_003",
+		"sourceRect": {"x": 644, "y": 261, "width": 43, "height": 75},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 43, "height": 75},
+		"originalSize": {"width": 43, "height": 75}
+	},
+	{
+		"id": "aguar_004",
+		"sourceRect": {"x": 260, "y": 262, "width": 43, "height": 75},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 43, "height": 75},
+		"originalSize": {"width": 43, "height": 75}
+	},
+	{
+		"id": "aguar_005",
+		"sourceRect": {"x": 303, "y": 262, "width": 43, "height": 75},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 43, "height": 75},
+		"originalSize": {"width": 43, "height": 75}
+	},
+	{
+		"id": "aguar_006",
+		"sourceRect": {"x": 346, "y": 273, "width": 43, "height": 75},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 43, "height": 75},
+		"originalSize": {"width": 43, "height": 75}
+	},
+	{
+		"id": "aguar_007",
+		"sourceRect": {"x": 389, "y": 273, "width": 43, "height": 75},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 43, "height": 75},
+		"originalSize": {"width": 43, "height": 75}
+	},
+	{
+		"id": "agua_001",
+		"sourceRect": {"x": 687, "y": 276, "width": 75, "height": 43},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 75, "height": 43},
+		"originalSize": {"width": 75, "height": 43}
+	},
+	{
+		"id": "agua_002",
+		"sourceRect": {"x": 762, "y": 276, "width": 75, "height": 43},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 75, "height": 43},
+		"originalSize": {"width": 75, "height": 43}
+	},
+	{
+		"id": "agua_003",
+		"sourceRect": {"x": 176, "y": 282, "width": 75, "height": 43},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 75, "height": 43},
+		"originalSize": {"width": 75, "height": 43}
+	},
+	{
+		"id": "agua_004",
+		"sourceRect": {"x": 0, "y": 292, "width": 75, "height": 43},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 75, "height": 43},
+		"originalSize": {"width": 75, "height": 43}
+	},
+	{
+		"id": "agua_005",
+		"sourceRect": {"x": 837, "y": 293, "width": 75, "height": 43},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 75, "height": 43},
+		"originalSize": {"width": 75, "height": 43}
+	},
+	{
+		"id": "agua_006",
+		"sourceRect": {"x": 912, "y": 293, "width": 75, "height": 43},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 75, "height": 43},
+		"originalSize": {"width": 75, "height": 43}
+	},
+	{
+		"id": "agua_007",
+		"sourceRect": {"x": 75, "y": 296, "width": 75, "height": 43},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 75, "height": 43},
+		"originalSize": {"width": 75, "height": 43}
+	},
+	{
+		"id": "adnr_001",
+		"sourceRect": {"x": 432, "y": 305, "width": 64, "height": 37},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 64, "height": 37},
+		"originalSize": {"width": 64, "height": 37}
+	},
+	{
+		"id": "adnr_002",
+		"sourceRect": {"x": 687, "y": 319, "width": 64, "height": 37},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 64, "height": 37},
+		"originalSize": {"width": 64, "height": 37}
+	},
+	{
+		"id": "adnr_003",
+		"sourceRect": {"x": 751, "y": 319, "width": 64, "height": 37},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 64, "height": 37},
+		"originalSize": {"width": 64, "height": 37}
+	},
+	{
+		"id": "adnr_004",
+		"sourceRect": {"x": 150, "y": 325, "width": 64, "height": 37},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 64, "height": 37},
+		"originalSize": {"width": 64, "height": 37}
+	},
+	{
+		"id": "adnr_005",
+		"sourceRect": {"x": 0, "y": 335, "width": 64, "height": 37},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 64, "height": 37},
+		"originalSize": {"width": 64, "height": 37}
+	},
+	{
+		"id": "adnr_006",
+		"sourceRect": {"x": 496, "y": 336, "width": 64, "height": 37},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 64, "height": 37},
+		"originalSize": {"width": 64, "height": 37}
+	},
+	{
+		"id": "adn_001",
+		"sourceRect": {"x": 987, "y": 293, "width": 37, "height": 64},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 37, "height": 64},
+		"originalSize": {"width": 37, "height": 64}
+	},
+	{
+		"id": "adn_002",
+		"sourceRect": {"x": 214, "y": 325, "width": 37, "height": 64},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 37, "height": 64},
+		"originalSize": {"width": 37, "height": 64}
+	},
+	{
+		"id": "adn_003",
+		"sourceRect": {"x": 560, "y": 336, "width": 37, "height": 64},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 37, "height": 64},
+		"originalSize": {"width": 37, "height": 64}
+	},
+	{
+		"id": "adn_004",
+		"sourceRect": {"x": 597, "y": 336, "width": 37, "height": 64},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 37, "height": 64},
+		"originalSize": {"width": 37, "height": 64}
+	},
+	{
+		"id": "adn_005",
+		"sourceRect": {"x": 634, "y": 336, "width": 37, "height": 64},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 37, "height": 64},
+		"originalSize": {"width": 37, "height": 64}
+	},
+	{
+		"id": "adn_006",
+		"sourceRect": {"x": 815, "y": 336, "width": 37, "height": 64},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 37, "height": 64},
+		"originalSize": {"width": 37, "height": 64}
+	},
+	{
+		"id": "pistola_offm_001",
+		"sourceRect": {"x": 852, "y": 336, "width": 44, "height": 45},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 44, "height": 45},
+		"originalSize": {"width": 44, "height": 45}
+	},
+	{
+		"id": "pistola_offrm_001",
+		"sourceRect": {"x": 896, "y": 336, "width": 45, "height": 44},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 45, "height": 44},
+		"originalSize": {"width": 45, "height": 44}
+	},
+	{
+		"id": "pistola_offr_001",
+		"sourceRect": {"x": 941, "y": 336, "width": 45, "height": 44},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 45, "height": 44},
+		"originalSize": {"width": 45, "height": 44}
+	},
+	{
+		"id": "pistola_off_001",
+		"sourceRect": {"x": 251, "y": 337, "width": 44, "height": 45},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 44, "height": 45},
+		"originalSize": {"width": 44, "height": 45}
+	},
+	{
+		"id": "pistola_onm_001",
+		"sourceRect": {"x": 295, "y": 337, "width": 44, "height": 45},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 44, "height": 45},
+		"originalSize": {"width": 44, "height": 45}
+	},
+	{
+		"id": "pistola_onrm_001",
+		"sourceRect": {"x": 64, "y": 339, "width": 45, "height": 44},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 45, "height": 44},
+		"originalSize": {"width": 45, "height": 44}
+	},
+	{
+		"id": "pistola_onr_001",
+		"sourceRect": {"x": 432, "y": 342, "width": 45, "height": 44},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 45, "height": 44},
+		"originalSize": {"width": 45, "height": 44}
+	},
+	{
+		"id": "pistola_on_001",
+		"sourceRect": {"x": 339, "y": 348, "width": 44, "height": 45},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 44, "height": 45},
+		"originalSize": {"width": 44, "height": 45}
+	},
+	{
+		"id": "hielor_001",
+		"sourceRect": {"x": 109, "y": 339, "width": 25, "height": 74},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 25, "height": 74},
+		"originalSize": {"width": 25, "height": 74}
+	},
+	{
+		"id": "hielor_002",
+		"sourceRect": {"x": 383, "y": 348, "width": 25, "height": 74},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 25, "height": 74},
+		"originalSize": {"width": 25, "height": 74}
+	},
+	{
+		"id": "hielor_003",
+		"sourceRect": {"x": 671, "y": 356, "width": 25, "height": 74},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 25, "height": 74},
+		"originalSize": {"width": 25, "height": 74}
+	},
+	{
+		"id": "hielor_004",
+		"sourceRect": {"x": 696, "y": 356, "width": 25, "height": 74},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 25, "height": 74},
+		"originalSize": {"width": 25, "height": 74}
+	},
+	{
+		"id": "hielo_001",
+		"sourceRect": {"x": 721, "y": 356, "width": 74, "height": 25},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 74, "height": 25},
+		"originalSize": {"width": 74, "height": 25}
+	},
+	{
+		"id": "hielo_002",
+		"sourceRect": {"x": 134, "y": 362, "width": 74, "height": 25},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 74, "height": 25},
+		"originalSize": {"width": 74, "height": 25}
+	},
+	{
+		"id": "hielo_003",
+		"sourceRect": {"x": 477, "y": 373, "width": 74, "height": 25},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 74, "height": 25},
+		"originalSize": {"width": 74, "height": 25}
+	},
+	{
+		"id": "hielo_004",
+		"sourceRect": {"x": 896, "y": 380, "width": 74, "height": 25},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 74, "height": 25},
+		"originalSize": {"width": 74, "height": 25}
+	},
+	{
+		"id": "adni_001",
+		"sourceRect": {"x": 958, "y": 60, "width": 38, "height": 35},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 38, "height": 35},
+		"originalSize": {"width": 38, "height": 35}
+	},
+	{
+		"id": "aguai_001",
+		"sourceRect": {"x": 986, "y": 357, "width": 38, "height": 35},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 38, "height": 35},
+		"originalSize": {"width": 38, "height": 35}
+	},
+	{
+		"id": "fuegoi_001",
+		"sourceRect": {"x": 0, "y": 372, "width": 38, "height": 35},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 38, "height": 35},
+		"originalSize": {"width": 38, "height": 35}
+	},
+	{
+		"id": "hieloi_001",
+		"sourceRect": {"x": 721, "y": 381, "width": 38, "height": 35},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 38, "height": 35},
+		"originalSize": {"width": 38, "height": 35}
+	},
+	{
+		"id": "item_loop_001",
+		"sourceRect": {"x": 759, "y": 381, "width": 38, "height": 35},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 38, "height": 35},
+		"originalSize": {"width": 38, "height": 35}
+	},
+	{
+		"id": "item_loop_002",
+		"sourceRect": {"x": 852, "y": 381, "width": 38, "height": 35},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 38, "height": 35},
+		"originalSize": {"width": 38, "height": 35}
+	},
+	{
+		"id": "item_loop_003",
+		"sourceRect": {"x": 251, "y": 382, "width": 38, "height": 35},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 38, "height": 35},
+		"originalSize": {"width": 38, "height": 35}
+	},
+	{
+		"id": "item_loop_004",
+		"sourceRect": {"x": 289, "y": 382, "width": 38, "height": 35},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 38, "height": 35},
+		"originalSize": {"width": 38, "height": 35}
+	},
+	{
+		"id": "item_loop_005",
+		"sourceRect": {"x": 38, "y": 383, "width": 38, "height": 35},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 38, "height": 35},
+		"originalSize": {"width": 38, "height": 35}
+	},
+	{
+		"id": "nubei_001",
+		"sourceRect": {"x": 408, "y": 386, "width": 38, "height": 35},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 38, "height": 35},
+		"originalSize": {"width": 38, "height": 35}
+	},
+	{
+		"id": "piedrai_001",
+		"sourceRect": {"x": 134, "y": 387, "width": 38, "height": 35},
+		"drawOffset": {"x": 0, "y": 0},
+		"size": {"width": 38, "height": 35},
+		"originalSize": {"width": 38, "height": 35}
+	}
+]
